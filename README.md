@@ -15,4 +15,4 @@ JavaScript におけるテストを体験するプログラム
 
 1. `src/index.js` にテストしたい関数を書く
 2. `src/index.test.js` にテストを書く
-3. `npm jest` でテストを実行する
+3. `npm test` でテストを実行する
