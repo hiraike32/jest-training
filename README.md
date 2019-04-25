@@ -8,6 +8,9 @@ JavaScript におけるテストを体験するプログラム
 2. `npm install`
 3. `npm test`
 
+注意：node が入っていないと `npm` が動かないので、以下から node をいれてください。
+[Node.js](https://nodejs.org/ja/)
+
 ## Custom
 
 1. `src/index.js` にテストしたい関数を書く
