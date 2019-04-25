@@ -1,0 +1,16 @@
+{
+  "name": "jest-training",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hiraike32/jest-training.git",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.4.3",
+    "@babel/preset-env": "^7.4.3",
+    "babel-jest": "^24.7.1",
+    "jest": "^24.7.1"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
